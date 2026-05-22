@@ -59,14 +59,14 @@ RegisterNumber:212225220060*/
 
 
 **RTL realization**
-<img width="1455" height="811" alt="562073422-6be499eb-2535-434d-b7fd-a63ff9d1efa4" src="https://github.com/user-attachments/assets/5c55c03a-34ec-40db-be7d-9c395a15484b" />
-
+<img width="1455" height="811" alt="de2 1" src="https://github.com/user-attachments/assets/dbea5557-7b43-4b1a-9dfc-4a0b9ae41c6e" />
 **Output:**
 
 **RTL**
 
 **Timing Diagram**
-<img width="1455" height="811" alt="562073422-6be499eb-2535-434d-b7fd-a63ff9d1efa4" src="https://github.com/user-attachments/assets/fd3d4162-a122-43fc-a686-38ad7d8b1908" />
+<img width="1453" height="811" alt="de2 2" src="https://github.com/user-attachments/assets/6858c4c8-8ee5-42a6-bcb8-9e196bc738a1" />
+
 
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
